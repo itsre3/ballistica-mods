@@ -1,0 +1,36 @@
+{
+    "utilities": {
+        "advancepartywindow": {
+            "filename": "AdvancePartyWindow.py",
+            "author": "Mr.smoothy",
+            "download": "bb",
+            "description": ["Simply change your party window with explicitly new features"],
+            "author_contact": {
+                "email": "mrsmoothy@gmail.com",
+                "discord": "mr.smoothy#9308"
+            },
+            "unique_code": "e820820108273001082",
+            "Date_posted": "2022-06-07",
+            "commits": [
+                "First release"
+            ]
+        }
+    },
+    "maps": {
+        "2077map": {
+            "filename": "2077map.py",
+            "author": "itsre3",
+            "download": "link",
+            "description": ["Travelled with B900 to future and got this"],
+            "author_contact": {
+                "email": "itsre3@gmail.com",
+                "discord": "itsre3#8904"
+            },
+            "unique_code": "e9289308267208377330837",
+            "Date_posted": "2022-06-07",
+            "commits": [
+                "Sus"
+            ]
+        }
+    }
+}
